@@ -1,1 +1,1 @@
-# WMRGL-Windows-Mixed-Reality-Game-Loader-
+# WMRGL [Windows Mixed Reality Game Loader]
