@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <title>Game Page Menu</title>
+  <link href="css/main.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<script>
+    function VRTStartCommand(cmd) {
+      var Path = location.pathname
+      var PathLength = Path.length - 18;
+      var Path_1 = Path.substring(1, PathLength);
+      var Filepath = 'file:///' + Path_1 + cmd
+      var s = '{ "LightVRCallback": { "ShellExec": "' + Filepath + '" } }';
+      console.log(s);
+    }
+</script>
+	<div class="icon8">
+
+		<br>
+	</div>  
+</body>
+</html>
