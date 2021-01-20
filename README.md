@@ -10,7 +10,7 @@
 
 **Preview Video:**
 
-[![SC2 Video](https://i9.ytimg.com/vi_webp/Ihud03e8jl8/mqdefault.webp?time=1611177900000&sqp=CKy_ooAG&rs=AOn4CLBITrxm4hCnPIYbLVKXQ_wvIaAc8Q)](https://youtu.be/Ihud03e8jl8)
+[![WMRGL Preview Video](https://i9.ytimg.com/vi_webp/Ihud03e8jl8/mqdefault.webp?time=1611177900000&sqp=CKy_ooAG&rs=AOn4CLBITrxm4hCnPIYbLVKXQ_wvIaAc8Q)](https://youtu.be/Ihud03e8jl8)
 
 
 **Misc.:**
