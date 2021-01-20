@@ -9,6 +9,11 @@ Usage:
 6. Open an Microsoft Edge Internet Browser Window in Windows Mixed Reality environment using the WMR Menu Button on the Controller
 
 
+
+[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](https://youtu.be/Ihud03e8jl8)
+
+
+
 Misc.:
 
 Main WMRGL Window. Use the Scan button in the upper left corner to update the library.
