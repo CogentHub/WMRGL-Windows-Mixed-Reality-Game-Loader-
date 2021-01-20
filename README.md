@@ -1,6 +1,6 @@
 # WMRGL [Windows Mixed Reality Game Loader]
 
-Usage:
+**Usage:**
 1. Install Autoit https://www.autoitscript.com/site/autoit/downloads/
 2. Download and Unzip the latest version the the WMRGL https://github.com/CogentHub/WMRGL-Windows-Mixed-Reality-Game-Loader-/releases/latest
 3. Double click / launch "WMRGL.au3" to start the WMRGL. Scan the Library for both "Only VR Apps" and All Apps
@@ -8,13 +8,12 @@ Usage:
 5. Save the "GamePage_Menu.html" page as start url in the Settings or add it to the bookmarks/Favorites
 6. Open an Microsoft Edge Internet Browser Window in Windows Mixed Reality environment using the WMR Menu Button on the Controller
 
+**Preview Video:**
+
+[![SC2 Video](https://i9.ytimg.com/vi_webp/Ihud03e8jl8/mqdefault.webp?time=1611177900000&sqp=CKy_ooAG&rs=AOn4CLBITrxm4hCnPIYbLVKXQ_wvIaAc8Q)](https://youtu.be/Ihud03e8jl8)
 
 
-[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](https://youtu.be/Ihud03e8jl8)
-
-
-
-Misc.:
+**Misc.:**
 
 Main WMRGL Window. Use the Scan button in the upper left corner to update the library.
 
